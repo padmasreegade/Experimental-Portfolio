@@ -19,10 +19,6 @@ export default function App() {
         <Projects />
       </SectionWrapper>
 
-      <SectionWrapper delay={0.4}>
-        <Skills />
-      </SectionWrapper>
-
       <SectionWrapper delay={0.6}>
         <Contact />
       </SectionWrapper>
