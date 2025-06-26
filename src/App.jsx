@@ -24,7 +24,7 @@ export default function App() {
       </SectionWrapper>
 
       <footer className="py-6 text-center text-sm text-gray-500">
-        Built with ❤️ by Padmasree — © {new Date().getFullYear()}
+        Built by Padmasree — © {new Date().getFullYear()}
       </footer>
     </div>
   );

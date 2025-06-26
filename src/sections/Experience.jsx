@@ -31,7 +31,7 @@ const experienceList = [
     duration: "During Master's",
     description:
       "Supported planning, development, and maintenance of hardware and software systems. Assisted library departments with digital content production and documentation.",
-    logos: ["./images/villanova_logo.jpg", "./images/vufind_logo.png"],
+    logos: ["./images/villanova_logo.jpg"],
     highlights: [
       "Troubleshot Windows and Mac applications",
       "Enhanced technology-based library services",
@@ -44,7 +44,7 @@ const experienceList = [
     duration: "May - June 2017",
     description:
       "Completed a 4-week FinTech Valley Startup Workshop focused on Blockchain. Participated in Blockchain Hackathon Series and International Blockchain Business Conference.",
-    logos: ["./images/fintech_logo.png", "./images/APITA_logo.png"],
+    logos: ["./images/APITA_logo.png"],
     highlights: [
       "Developed Android blockchain app",
       "Immersed in cutting-edge blockchain technology",
